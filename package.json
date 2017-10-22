@@ -80,7 +80,7 @@
   },
   "devDependencies": {
     "@google-cloud/bigquery": "*",
-    "@google-cloud/nodejs-repo-tools": "^2.0.10",
+    "@google-cloud/nodejs-repo-tools": "2.0.10",
     "@google-cloud/pubsub": "*",
     "@google-cloud/storage": "*",
     "async": "^2.5.0",
